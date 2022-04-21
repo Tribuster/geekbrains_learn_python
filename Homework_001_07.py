@@ -20,3 +20,6 @@ while result_first_day < result_overal:
     result_first_day = result_first_day * 1.1
     day_z = day_z + 1
 print("На", str(day_z) + '-й день спортсмен достиг результата - не менее', result_overal,'км')
+
+
+

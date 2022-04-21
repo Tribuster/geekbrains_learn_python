@@ -23,3 +23,7 @@ elif (financial_results < 0.0):
 
 else:
     print('Не в прибыле и не в убытке. Сработано на 0!')
+
+
+
+    

@@ -10,3 +10,6 @@ time_hours = time_in_seconds // 3600
 time_minets = (time_in_seconds - time_hours * 3600) // 60
 time_seconds = (time_in_seconds - time_hours * 3600) % 60
 print('Time is', str(time_hours) + ":" + str(time_minets) + ":" + str(time_seconds))
+
+
+
