@@ -9,3 +9,6 @@ year_of_birth_yser = int(input("In what year were you born? "))
 year_now = int(input("Аnd what year is it? "))
 age_user_now = year_now - year_of_birth_yser
 print('Oh', name_user, 'are you', age_user_now)
+
+
+

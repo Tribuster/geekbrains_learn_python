@@ -4,3 +4,6 @@
 
 number_n = int(input("Enter a number from 0 to 9"))
 print(number_n + number_n * 11 + number_n * 111)
+
+
+
